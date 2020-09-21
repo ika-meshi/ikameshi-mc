@@ -8,7 +8,6 @@
 *.zip
 *.bd
 *.old
-*.jar
 
 plugins/DiscordSRV/.token
 plugins/Essentials/spawn.yml
