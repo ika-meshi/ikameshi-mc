@@ -26,4 +26,4 @@ plugins/SpawnerProtection/Spawners.yml
 plugins/WorldEdit/schematics/
 plugins/WorldGuard/worlds/
 plugins/FastAsyncWorldEdit/history/
-plugins/MythicMobs
+plugins/MythicMobs*.jar
