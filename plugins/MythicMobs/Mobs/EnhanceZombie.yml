@@ -1,0 +1,19 @@
+EnhanceZombie:
+  Type: ZOMBIE
+  Health: 30
+  Display: ''
+  Damage: 2
+  Drop:
+  - rotten_flesh 1-4 1
+  KillMessages:
+  - '<target.name>はゾンビに食い殺された'
+  Options:
+    AlwaysShowname: true
+    Despawm: true
+    KnockbackResistance: 0
+    PreventItemPickup: false
+    PreventOtherDrops: true
+    MovementSpeed: 0.2
+  Modules:
+    ThreatTable: true
+  Skills:

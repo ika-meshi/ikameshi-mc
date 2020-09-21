@@ -1,0 +1,7 @@
+replaccekyoukazombie:
+  MobType: EnhanceZombie
+  Worlds: world
+  Chance: 0.3
+  Action: REPLACE
+  Priority: 1
+  
